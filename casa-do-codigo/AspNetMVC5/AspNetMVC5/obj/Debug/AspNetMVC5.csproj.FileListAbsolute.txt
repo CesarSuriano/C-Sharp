@@ -51,3 +51,7 @@ D:\c-sharp\casa-do-codigo\AspNetMVC5\AspNetMVC5\bin\pt-br\System.Web.Mvc.resourc
 D:\c-sharp\casa-do-codigo\AspNetMVC5\AspNetMVC5\obj\Debug\AspNetMVC5.csprojResolveAssemblyReference.cache
 D:\c-sharp\casa-do-codigo\AspNetMVC5\AspNetMVC5\obj\Debug\AspNetMVC5.dll
 D:\c-sharp\casa-do-codigo\AspNetMVC5\AspNetMVC5\obj\Debug\AspNetMVC5.pdb
+D:\c-sharp\casa-do-codigo\AspNetMVC5\AspNetMVC5\bin\EntityFramework.dll
+D:\c-sharp\casa-do-codigo\AspNetMVC5\AspNetMVC5\bin\EntityFramework.SqlServer.dll
+D:\c-sharp\casa-do-codigo\AspNetMVC5\AspNetMVC5\bin\EntityFramework.xml
+D:\c-sharp\casa-do-codigo\AspNetMVC5\AspNetMVC5\bin\EntityFramework.SqlServer.xml
